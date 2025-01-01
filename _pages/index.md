@@ -12,6 +12,13 @@ I’m available for freelance software development projects. If you're intereste
 
 <h1>Experience</h1>
 
+- **Qiscus**
+  &nbsp;<img src="assets/images/Qiscus.png" width="48px" />
+  ```
+    Web Developer Intern
+    (Jan 2025 - Present)
+  ```
+
 - **Packet Systems Indonesia**
   &nbsp;<img src="assets/images/PSI.jpg" width="48px" />
   ```
